@@ -9,7 +9,9 @@ gem install nokogiri -v 1.15.6
 gem install rails
 sudo apt-get install libsqlite3-dev
 rails new rails2 -T
+rails db:migrate
 ###
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
