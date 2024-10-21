@@ -10,6 +10,8 @@ gem install rails
 sudo apt-get install libsqlite3-dev
 rails new rails2 -T
 rails db:migrate
+
+create file /public/manifest.json
 ###
 
 
